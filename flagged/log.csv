@@ -1,0 +1,17 @@
+comment,output,flag,username,timestamp
+"i freaking hate you
+","toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+",,,2023-06-01 05:42:13.164655
+"i freaking hate you
+","toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+",,,2023-06-01 05:42:15.077616
